@@ -40,3 +40,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-super-x&show_icons=true&icon_color=79ff97&locale=en&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="mr-super-x" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-super-x&" alt="mr-super-x" /></p>
+
+![](https://raw.githubusercontent.com/Mr-Super-X/Mr-Super-X/master/assets/github-contribution-grid-snake.svg)
+
