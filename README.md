@@ -1,6 +1,3 @@
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Mr-Super-X&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=2500&pause=500&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I+am+JP+Chen+%F0%9F%98%B8" alt="Typing SVG" /></a>
 </p>
@@ -8,6 +5,8 @@
 <p align="center">
 An frontend developer, who is currently learning frontend technology.
 </p>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Mr-Super-X&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### Hi there  🌅
 
