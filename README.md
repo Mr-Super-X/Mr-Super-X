@@ -63,8 +63,8 @@
 ### My Coding Project And Language
 
 <div>
-    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=mr-super-x&theme=calm&show_icons=true&bg_color=30,e96443,904e95" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-super-x&theme=calm&langs_count=6&layout=compact&bg_color=30,e96443,904e95" />
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=mr-super-x&theme=calm&show_icons=true&bg_color=30,e96443,904e95&title_color=#ffffff" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-super-x&theme=calm&langs_count=6&layout=compact&bg_color=30,e96443,904e95&title_color=#ffffff" />
 </div>
 
 ![](https://raw.githubusercontent.com/Mr-Super-X/Mr-Super-X/master/assets/github-contribution-grid-snake.svg)
