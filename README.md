@@ -69,16 +69,16 @@
 
 ![](https://raw.githubusercontent.com/Mr-Super-X/Mr-Super-X/master/assets/github-contribution-grid-snake.svg)
 
+<p align="center">
+	  <img src="https://readme-typing-svg.demolab.com?font=Hack+Code&pause=100&width=450&lines=console.log(%22Hello%2C%20World%22);别看啦!啥都没有！&center=true&size=22" alt="Typing SVG" />
+</p>
+
 ### Day
 
 ```text
 摸鱼   🕓 168h0m ██████████████████████████ 100.0%
 干活   🕓 0h0m   ░░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
 ```
-
-<p align="center">
-	  <img src="https://readme-typing-svg.demolab.com?font=Hack+Code&pause=100&width=450&lines=console.log(%22Hello%2C%20World%22);别看啦!啥都没有！&center=true&size=22" alt="Typing SVG" />
-</p>
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/icon.png" /></div>
