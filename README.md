@@ -13,7 +13,7 @@ An frontend developer, who is currently learning frontend technology.
 - :orange_book: [技术博客](https://juejin.cn/user/237150241041912/posts)
 - :hammer: [个人网站](https://juejin.cn/user/237150241041912/posts)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Super-X)
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Super-X&layout=compact" />
   
 <!--
 **Mr-Super-X/Mr-Super-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
