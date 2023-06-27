@@ -32,7 +32,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/JP.Chen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JP.Chen" /></a><a href="https://ko-fi.com/JP.Chen"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="JP.Chen" /></a></p>
-<br />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-super-x&show_icons=true&locale=en&layout=compact" alt="mr-super-x" /></p>
 
