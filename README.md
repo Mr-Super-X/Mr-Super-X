@@ -6,8 +6,6 @@
 An frontend developer, who is currently learning frontend technology.
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Super-X)
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Mr-Super-X&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### Hi there  🌅
@@ -15,6 +13,7 @@ An frontend developer, who is currently learning frontend technology.
 - :orange_book: [技术博客](https://juejin.cn/user/237150241041912/posts)
 - :hammer: [个人网站](https://juejin.cn/user/237150241041912/posts)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Super-X)
   
 <!--
 **Mr-Super-X/Mr-Super-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
