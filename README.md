@@ -6,6 +6,8 @@
 An frontend developer, who is currently learning frontend technology.
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Super-X)
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Mr-Super-X&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### Hi there  🌅
