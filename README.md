@@ -12,11 +12,10 @@ An frontend developer, who is currently learning frontend technology.
 
 - :orange_book: 技术博客：https://juejin.cn/user/237150241041912/posts
  
-<!-- - :hammer: 个人网站：http://www.neowho.cc
+- :hammer: 个人网站：https://juejin.cn/user/237150241041912/posts
  
-- :meat_on_bone: 极客官网：http://www.jkvipedu.com
+- :meat_on_bone: 极客官网：https://juejin.cn/user/237150241041912/posts
 
--->
   
 <!--
 **Mr-Super-X/Mr-Super-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
