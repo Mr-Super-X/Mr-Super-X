@@ -87,4 +87,7 @@
 <img src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/icon.png" /></div>
 
 <!--彩虹分割线--> 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<p align="center">
+   <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="100%" height="3">
+</p>
+<!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" /> -->
