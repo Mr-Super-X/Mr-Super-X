@@ -16,8 +16,10 @@
 </p>
 
 <p>
+	<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />&emsp;
 	<!-- 动漫少女举牌 访问次数统计 -->
     <img src="https://count.getloli.com/get/@Mr-Super-X.github.readme?theme=rule34" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
+	&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
 </p>
 
 <!-- <p align="left"> 
