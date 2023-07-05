@@ -4,19 +4,19 @@
 
 <h3 align="center">A passionate frontend developer from China.</h3>
 
-<!-- knock code pictures 动图 -->
 <p align="center">
   <!-- <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /> -->
-	<!-- just img 图片 -->
+	<!-- 动图 努力.jpg -->
 	<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 </p>
 
-<!--彩虹分割线--> 
 <p align="center">
-   <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="100%" height="3">
+	<!--彩虹分割线--> 
+    <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="100%" height="3">
 </p>
 
 <p>
+	<!-- 动漫少女举牌 访问次数统计 -->
     <img src="https://count.getloli.com/get/@Mr-Super-X.github.readme?theme=rule34" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
 </p>
 
@@ -24,7 +24,12 @@
    <img src="https://komarev.com/ghpvc/?username=mr-super-x&label=Profile%20views&color=0e75b6&style=flat" alt="mr-super-x" />
 </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-super-x&theme=algolia" alt="mr-super-x" /></a> </p>
+<p align="left"> 
+	<!-- GitHub 奖杯🏆 -->
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-super-x&theme=algolia&row=1&column=8" alt="mr-super-x" /></a> 
+</p>
+
+### About Me
 
 - 🔭 I’m currently working on **Guangzhou**
 
