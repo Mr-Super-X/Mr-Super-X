@@ -69,6 +69,9 @@
 
 ![](https://raw.githubusercontent.com/Mr-Super-X/Mr-Super-X/master/assets/github-contribution-grid-snake.svg)
 
+![](https://github-readme-activity-graph.cyclic.app/graph?username=Mr-Super-X&theme=dracula)
+
+
 <p align="center">
 	  <img src="https://readme-typing-svg.demolab.com?font=Hack+Code&pause=100&width=450&lines=console.log(%22Hello%2C%20World%22);别看啦!啥都没有！&center=true&size=22" alt="Typing SVG" />
 </p>
