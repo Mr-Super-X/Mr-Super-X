@@ -6,7 +6,9 @@
 
 <!-- knock code pictures 动图 -->
 <p align="center">
-   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+  <!-- <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /> -->
+	<!-- just img 图片 -->
+	<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 </p>
 
 <!--彩虹分割线--> 
@@ -18,9 +20,9 @@
     <img src="https://count.getloli.com/get/@Mr-Super-X.github.readme?theme=rule34" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
 </p>
 
-<p align="left"> 
+<!-- <p align="left"> 
    <img src="https://komarev.com/ghpvc/?username=mr-super-x&label=Profile%20views&color=0e75b6&style=flat" alt="mr-super-x" />
-</p>
+</p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-super-x&theme=algolia" alt="mr-super-x" /></a> </p>
 
