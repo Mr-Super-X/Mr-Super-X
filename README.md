@@ -1,7 +1,13 @@
-<h1 align="center">
+<h3 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=2500&pause=500&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I+am+JP+Chen+%F0%9F%98%B8" alt="Typing SVG" /></a>
-</h1>
+</h3>
+
 <h3 align="center">A passionate frontend developer from China.</h3>
+
+<!--彩虹分割线--> 
+<p align="center">
+   <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="100%" height="3">
+</p>
 
 <p>
     <img src="https://count.getloli.com/get/@codeacg.github.readme?theme=rule34" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
@@ -66,6 +72,8 @@
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=mr-super-x&theme=calm&show_icons=true&bg_color=30,e96443,904e95&title_color=#ffffff" />
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-super-x&theme=calm&langs_count=6&layout=compact&bg_color=30,e96443,904e95&title_color=#ffffff" />
 </div>
+
+[![](https://cdn.jsdelivr.net/gh/Mr-Super-X/vue3-admin@master/assets/github.svg)](https://running-page.l1cardo.vercel.app)
 
 ![](https://raw.githubusercontent.com/Mr-Super-X/Mr-Super-X/master/assets/github-contribution-grid-snake.svg)
 
