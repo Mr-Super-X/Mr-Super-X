@@ -69,7 +69,7 @@
 
 ![](https://raw.githubusercontent.com/Mr-Super-X/Mr-Super-X/master/assets/github-contribution-grid-snake.svg)
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=Mr-Super-X&theme=dracula)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Super-X&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
