@@ -61,6 +61,27 @@
 - ⚡ 一个有趣的事实是 **我认为我很有趣**
 
 
+### Work Experience
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
+
+- [数字广东网络建设有限公司](https://www.digitalgd.com.cn/) &emsp; 📌 2022-06-20 —— Now
+  
+  - 工作岗位：Web前端开发工程师（高级）
+  - 工作内容：ToG项目
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
+
+- [绿瘦健康产业集团股份有限公司](https://www.lvshou.net/) &emsp; 📌 2019-04-22 —— 2022-03-28
+  
+  - 工作岗位：Web前端工程师（中级）
+  - 工作内容：智能销售平台一站式研发
+
+<p align="center">
+	<!--彩虹分割线--> 
+    <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="100%" height="3">
+</p>
+
 <p align="center">
 	<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/pig.gif" />&emsp;
 	<!-- 动图 努力.jpg -->
