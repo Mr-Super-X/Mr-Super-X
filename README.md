@@ -1,8 +1,8 @@
 <h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=2500&pause=500&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I+am+小陈同学+%F0%9F%98%B8" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=2500&pause=500&center=true&vCenter=true&width=435&lines=Hi+你好吗+%F0%9F%91%8B;我是小陈同学+%F0%9F%98%B8" alt="Typing SVG" /></a>
 </h3>
 
-<h3 align="center">A passionate frontend developer from China.</h3>
+<h3 align="center">真正的英雄主义，是看清生活的真相后依然热爱生活。</h3>
 
 <!-- 徽章 -->
 <p align="center">
@@ -18,6 +18,9 @@
         <img
             src="https://img.shields.io/badge/dynamic/json?label=%E7%9F%A5%E4%B9%8E%E5%85%B3%E6%B3%A8&labelColor=0084ff&color=282c34&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dmr-chen-38-81&longCache=true" />
     </a>
+	<a href="https://mail.163.com">
+		<img src="https://img.shields.io/badge/-17688436296@163.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:17688436296@163.com" />
+	</a>
 </p>
 
 
@@ -32,37 +35,6 @@
     <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="100%" height="3">
 </p>
 
-<p align="center">
-	<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/pig.gif" />&emsp;
-	<!-- 动图 努力.jpg -->
-	<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
-	&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
-</p>
-
-<p align="center">
-	<!--彩虹分割线--> 
-    <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="100%" height="3">
-</p>
-
-<!-- 贪吃蛇代码贡献图 白天主题 -->
-<!--
-	![](https://raw.githubusercontent.com/Mr-Super-X/Mr-Super-X/master/assets/github-contribution-grid-snake.svg)
--->
-<!-- 贪吃蛇代码贡献图 夜间主题 -->
-![](https://raw.githubusercontent.com/Mr-Super-X/Mr-Super-X/master/assets/github-contribution-grid-snake-dark.svg)
-
-<!-- 最近一个月活动图 -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Super-X&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<!-- <p align="left"> 
-   <img src="https://komarev.com/ghpvc/?username=mr-super-x&label=Profile%20views&color=0e75b6&style=flat" alt="mr-super-x" />
-</p> -->
-
-<p align="left"> 
-	<!-- GitHub 奖杯🏆 -->
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-super-x&theme=algolia&row=1&column=8" alt="mr-super-x" /></a> 
-</p>
 
 ### About Me
 
@@ -83,6 +55,35 @@
 - 📫 How to reach me **17688436296@163.com**
 
 - ⚡ Fun fact **I think I am Funny**
+
+
+<p align="center">
+	<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/pig.gif" />&emsp;
+	<!-- 动图 努力.jpg -->
+	<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
+	&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
+</p>
+
+
+<!-- 贪吃蛇代码贡献图 白天主题 -->
+<!--
+	![](https://raw.githubusercontent.com/Mr-Super-X/Mr-Super-X/master/assets/github-contribution-grid-snake.svg)
+-->
+<!-- 贪吃蛇代码贡献图 夜间主题 -->
+![](https://raw.githubusercontent.com/Mr-Super-X/Mr-Super-X/master/assets/github-contribution-grid-snake-dark.svg)
+
+<!-- 最近一个月活动图 -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Super-X&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<!-- <p align="left"> 
+   <img src="https://komarev.com/ghpvc/?username=mr-super-x&label=Profile%20views&color=0e75b6&style=flat" alt="mr-super-x" />
+</p> -->
+
+<p align="left"> 
+	<!-- GitHub 奖杯🏆 -->
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-super-x&theme=algolia&row=1&column=8" alt="mr-super-x" /></a> 
+</p>
 
 ### Sites
 
