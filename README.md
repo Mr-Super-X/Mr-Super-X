@@ -4,10 +4,27 @@
 
 <h3 align="center">A passionate frontend developer from China.</h3>
 
+<!-- 徽章 -->
 <p align="center">
-  <!-- <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /> -->
-	<!-- 动图 努力.jpg -->
-	<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
+	<a href="https://github.com/Mr-Super-X">
+        <img alt="github"
+            src="https://img.shields.io/github/stars/Mr-Super-X?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
+    </a>
+	<a href="https://juejin.cn/user/237150241041912/posts">
+        <img alt="juejin"
+            src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-2022%E5%B9%B4%E5%BA%A6%E6%91%B8%E9%B1%BC%E4%BD%9C%E8%80%851%E5%90%8D-%23007fff" />
+    </a>
+	<a href="https://www.zhihu.com/people/mr-chen-38-81/posts">
+        <img
+            src="https://img.shields.io/badge/dynamic/json?label=%E7%9F%A5%E4%B9%8E%E5%85%B3%E6%B3%A8&labelColor=0084ff&color=282c34&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dmr-chen-38-81&longCache=true" />
+    </a>
+</p>
+
+
+<p align="center">
+  	<!-- <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /> -->
+	<!-- 动漫少女举牌 访问次数统计 -->
+    <img src="https://count.getloli.com/get/@Mr-Super-X.github.readme?theme=rule34" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
 </p>
 
 <p align="center">
@@ -17,8 +34,8 @@
 
 <p align="center">
 	<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/pig.gif" />&emsp;
-	<!-- 动漫少女举牌 访问次数统计 -->
-    <img src="https://count.getloli.com/get/@Mr-Super-X.github.readme?theme=rule34" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
+	<!-- 动图 努力.jpg -->
+	<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 	&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
 </p>
 
