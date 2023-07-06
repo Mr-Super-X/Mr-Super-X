@@ -38,23 +38,27 @@
 
 ### About Me
 
-- 🔭 I’m currently working on **Guangzhou**
+- 大家好，我是小陈。
 
-- 🌱 I’m currently learning **vue3**
+- 热爱编程、摄影、试图培养新的爱好。
 
-- 👯 I’m looking to collaborate on [vue3-admin](https://github.com/Mr-Super-X/vue3-admin)
+- 🔭 目前在广州工作。
 
-- 🤝 I’m looking for help with [vue3-admin](https://github.com/Mr-Super-X/vue3-admin)
+- 🌱 正在使用Vue3。
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mr-Super-X?tab=repositories](https://github.com/Mr-Super-X?tab=repositories)
+- 👯 我希望在 [vue3-admin](https://github.com/Mr-Super-X/vue3-admin) 上进行合作。
 
-- 📝 I regularly write articles on [https://juejin.cn/user/237150241041912/posts](https://juejin.cn/user/237150241041912/posts)
+- 🤝 邀请你和我一起开发 [vue3-admin](https://github.com/Mr-Super-X/vue3-admin)。
 
-- 💬 Ask me about **vue3**
+- 👨‍💻 我的所有项目都可以在 [https://github.com/Mr-Super-X?tab=repositories](https://github.com/Mr-Super-X?tab=repositories) 查看。
 
-- 📫 How to reach me **17688436296@163.com**
+- 📝 这里有我写的一些博客文章 [https://juejin.cn/user/237150241041912/posts](https://juejin.cn/user/237150241041912/posts) 。
 
-- ⚡ Fun fact **I think I am Funny**
+- 💬 可以问我Vue相关的问题。
+
+- 📫 联系我 **17688436296@163.com** 。
+
+- ⚡ 一个有趣的事实是 **我认为我很有趣**
 
 
 <p align="center">
