@@ -35,12 +35,14 @@
     <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="100%" height="3">
 </p>
 
+<table width="100%">
+<tr><td>
 
 ### About Me
 
-- 大家好，我是小陈。
+- 🙋 大家好，我是小陈。
 
-- 热爱编程、摄影、试图培养新的爱好。
+- 🤺 热爱编程、摄影、试图培养新的爱好。
 
 - 🔭 目前在广州工作。
 
@@ -58,8 +60,12 @@
 
 - 📫 联系我 **17688436296@163.com** 。
 
-- ⚡ 一个有趣的事实是 **我认为我很有趣**
+- ⚡ 一个有趣的事实是 **我认为我很有趣** 。
 
+</td></tr>
+
+<tr>
+<td>
 
 ### Work Experience
 
@@ -67,7 +73,7 @@
 	<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
 -->
 
-- [数字广东网络建设有限公司](https://www.digitalgd.com.cn/) &emsp; 📌 2022-06-20 —— Now
+- [数字广东网络建设有限公司](https://www.digitalgd.com.cn/) （外包仔）&emsp; 📌 2022-06-20 —— Now
   
   - 工作岗位：Web前端开发工程师（高级）
   - 工作内容：ToG项目
@@ -80,6 +86,38 @@
   
   - 工作岗位：Web前端工程师（中级）
   - 工作内容：智能销售平台一站式研发
+
+</td></tr>
+
+<tr><td>
+
+<!-- 近期博客 -->
+### Recent Blog
+
+<!-- START_SECTION:blog -->
+- Vue
+  - <a href='https://juejin.cn/post/6995358405300846623' target='_blank'>Vue—关于响应式（一、依赖收集原理分析）</a>
+  - <a href='https://juejin.cn/post/6995761286063587341' target='_blank'>Vue—关于响应式（二、异步更新队列原理分析）</a>
+  - <a href='https://juejin.cn/post/7012166593840939016' target='_blank'>Vue—关于响应式（三、Diff Patch原理分析）</a>
+  - <a href='https://juejin.cn/post/7024057177560055816' target='_blank'>Vue—关于响应式（四、深入学习Vue响应式源码）</a>
+  - <a href='https://juejin.cn/post/7213640074227892283' target='_blank'>Vue—不实用的小知识合集</a>
+  - <a href='https://juejin.cn/post/6994698605198049316' target='_blank'>Vue—关于插件（源码级别的插件分析+实践）</a>
+  - <a href='https://juejin.cn/post/6993229743466217509' target='_blank'>Vue—关于实例中为什么只能有一个根元素？</a>
+  - <a href='https://juejin.cn/post/6998396827766620190' target='_blank'>Vue—关于computed（在计算属性中return函数的问题）</a>
+- 设计模式
+  - <a href='https://juejin.cn/post/7146508772196745229' target='_blank'>设计模式—关于概论部分的学习</a>
+  - <a href='https://juejin.cn/post/7147527757533020173' target='_blank'>设计模式—关于如何更好的封装与创建对象</a>
+  - <a href='https://juejin.cn/post/7147854370833432590' target='_blank'>设计模式—关于如何提高代码复用</a>
+  - <a href='https://juejin.cn/post/7148221046288547848' target='_blank'>设计模式—关于提高可扩展性（方法层面）的学习</a>
+  - <a href='https://juejin.cn/post/7148236950825074725' target='_blank'>设计模式—关于提高可扩展性（模块层面）的学习</a>
+  - <a href='https://juejin.cn/post/7151926918592331784' target='_blank'>设计模式—关于如何提高代码质量</a>
+- Node.js
+  - <a href='https://juejin.cn/post/7002534474772643848' target='_blank'>Node—关于Event Loop的学习笔记</a>
+  - <a href='https://juejin.cn/post/7013537317499453448' target='_blank'>Node—关于自动化构建与持续集成的学习笔记</a>
+<!-- END_SECTION:blog -->
+
+</td></tr>
+</table>
 
 <p align="center">
 	<!--彩虹分割线--> 
