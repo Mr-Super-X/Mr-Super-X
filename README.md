@@ -35,8 +35,6 @@
     <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="100%" height="3">
 </p>
 
-<table width="100%">
-<tr><td>
 
 ### About Me
 
@@ -62,10 +60,6 @@
 
 - ⚡ 一个有趣的事实是 **我认为我很有趣** 。
 
-</td></tr>
-
-<tr>
-<td>
 
 ### Work Experience
 
@@ -87,9 +81,6 @@
   - 工作岗位：Web前端工程师（中级）
   - 工作内容：智能销售平台一站式研发
 
-</td></tr>
-
-<tr><td>
 
 <!-- 近期博客 -->
 ### Recent Blog
@@ -116,8 +107,6 @@
   - <a href='https://juejin.cn/post/7013537317499453448' target='_blank'>Node—关于自动化构建与持续集成的学习笔记</a>
 <!-- END_SECTION:blog -->
 
-</td></tr>
-</table>
 
 <p align="center">
 	<!--彩虹分割线--> 
