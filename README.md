@@ -22,6 +22,22 @@
 	&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
 </p>
 
+<p align="center">
+	<!--彩虹分割线--> 
+    <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="100%" height="3">
+</p>
+
+<!-- 贪吃蛇代码贡献图 白天主题 -->
+<!--
+	![](https://raw.githubusercontent.com/Mr-Super-X/Mr-Super-X/master/assets/github-contribution-grid-snake.svg)
+-->
+<!-- 贪吃蛇代码贡献图 夜间主题 -->
+![](https://raw.githubusercontent.com/Mr-Super-X/Mr-Super-X/master/assets/github-contribution-grid-snake-dark.svg)
+
+<!-- 最近一个月活动图 -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Super-X&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <!-- <p align="left"> 
    <img src="https://komarev.com/ghpvc/?username=mr-super-x&label=Profile%20views&color=0e75b6&style=flat" alt="mr-super-x" />
 </p> -->
@@ -98,27 +114,6 @@
 <!-- 语言统计 -->
 [![](https://cdn.jsdelivr.net/gh/Mr-Super-X/vue3-admin@master/assets/github.svg)](https://running-page.l1cardo.vercel.app)
 
-<!-- 贪吃蛇代码贡献图 白天主题 -->
-<!--
-	![](https://raw.githubusercontent.com/Mr-Super-X/Mr-Super-X/master/assets/github-contribution-grid-snake.svg)
--->
-<!-- 贪吃蛇代码贡献图 夜间主题 -->
-![](https://raw.githubusercontent.com/Mr-Super-X/Mr-Super-X/master/assets/github-contribution-grid-snake-dark.svg)
-
-<!-- 最近一个月活动图 -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Super-X&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!-- 打字动效 -->
-<p align="center">
-	  <img src="https://readme-typing-svg.demolab.com?font=Hack+Code&pause=100&width=450&lines=console.log(%22Hello%2C%20World%22);别看啦!啥都没有！&center=true&size=22" alt="Typing SVG" />
-</p>
-
-<!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<p align="center" style="display: flex; align-items: flex-start;">
-	<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-super-x&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3"  alt="mr-super-x"/>
-	&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
-</p>
 
 ### Day
 
@@ -126,6 +121,32 @@
 摸鱼   🕓 168h0m ██████████████████████████ 100.0%
 干活   🕓 0h0m   ░░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
 ```
+
+### Nice Repository
+
+<!-- Awesome repo 比较好的仓库推荐 -->
+<p align="left">
+	<a href="https://github.com/sun0225SUN/Awesome-Love-Code">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
+	<br></br>
+<a href="https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Wechat-ggGitHub&repo=Awesome-GitHub-Repo&theme=dark&bg_color=121212&hide_border=true" /></a>
+<br></br>
+<a href="https://github.com/Mr-Super-X/vue3-admin">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Super-X&repo=vue3-admin&theme=dark&bg_color=121212&hide_border=true" /></a>
+</p>
+
+<!-- 打字动效 -->
+<p align="center">
+	  <img src="https://readme-typing-svg.demolab.com?font=Hack+Code&pause=100&width=450&lines=console.log(%22Hello%2C%20World%22);别看啦!啥都没有！&center=true&size=22" alt="Typing SVG" />
+</p>
+
+<!-- github-readme-streak-stats 连续提交代码天数记录 -->
+<p align="center">
+	<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-super-x&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3"  alt="mr-super-x"/>
+	&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
+</p>
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/icon.png" /></div>
@@ -135,3 +156,4 @@
    <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="100%" height="3">
 </p>
 <!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" /> -->
+
