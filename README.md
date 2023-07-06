@@ -138,7 +138,10 @@
 
 <!-- 打字动效 -->
 <p align="center">
-	  <img src="https://readme-typing-svg.demolab.com?font=Hack+Code&pause=100&width=450&lines=console.log(%22Hello%2C%20World%22);别看啦!啥都没有！&center=true&size=22" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.demolab.com?font=Hack+Code&pause=100&width=450&lines=别看啦!啥都没有！&center=true&size=22" alt="Typing SVG" />
+	<!--
+		<img src="https://readme-typing-svg.demolab.com?font=Hack+Code&pause=100&width=450&lines=console.log(%22Hello%2C%20World%22);别看啦!啥都没有！&center=true&size=22" alt="Typing SVG" />
+	-->
 </p>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
