@@ -108,6 +108,17 @@
 <!-- END_SECTION:blog -->
 
 
+<!-- 最近在读 -->
+### Movies and Books
+
+- <a href='https://movie.douban.com/subject/1292063/' target='_blank'>《美丽人生》</a> 🌟🌟🌟🌟🌟
+- <a href='https://movie.douban.com/subject/1309163/' target='_blank'>《恋恋笔记本》</a> 🌟🌟🌟🌟🌟
+- <a href='http://movie.douban.com/subject/1292052/' target='_blank'>《肖申克的救赎》</a> 🌟🌟🌟🌟🌟
+- <a href='https://movie.douban.com/subject/1291841/' target='_blank'>《教父》</a> 🌟🌟🌟🌟🌟
+- <a href='http://movie.douban.com/subject/35465232/' target='_blank'>《狂飙》</a> 🌟🌟🌟🌟🌟
+- <a href='https://book.douban.com/subject/35193035/' target='_blank'>《认知觉醒》</a> 🌟🌟🌟🌟🌟
+- <a href='https://book.douban.com/subject/3533221/' target='_blank'>《非暴力沟通》</a> 🌟🌟🌟🌟🌟
+
 <p align="center">
 	<!--彩虹分割线--> 
     <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="100%" height="3">
