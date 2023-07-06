@@ -148,6 +148,11 @@
 	&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 </p>
 
+<p align="center">
+	<!-- run 图片 -->
+	<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
+</p>
+
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/icon.png" /></div>
 
