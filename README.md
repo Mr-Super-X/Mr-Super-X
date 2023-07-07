@@ -149,7 +149,7 @@
 
 <p align="left"> 
 	<!-- GitHub 奖杯🏆 -->
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-super-x&theme=algolia&row=1&column=8" alt="mr-super-x" /></a> 
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-super-x&theme=onedark&row=1&column=8" alt="mr-super-x" /></a> 
 </p>
 
 ### Sites
