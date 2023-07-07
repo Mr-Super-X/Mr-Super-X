@@ -118,7 +118,7 @@
 - <a href='http://movie.douban.com/subject/1292052/' target='_blank'>《肖申克的救赎》</a> 🌟🌟🌟🌟🌟
   - 要么忙着生活，要么忙着等死（Busy for living,  or busy for death）。步履匆匆的人们也许应该偶尔驻足，跳出来看看自己的模样。我们终会知道，习惯于服从规则的人们将付出巨大代价来习惯本来属于每一个个体的自由。
 - <a href='https://movie.douban.com/subject/1291841/' target='_blank'>《教父》</a> 🌟🌟🌟🌟🌟
-  - 教父会试图教会你人生处世、社会的真实、家庭以及如何耍酷。
+  - 黑帮教父会教会你人生处世、社会的真实、家庭以及如何耍酷。
 - <a href='http://movie.douban.com/subject/35465232/' target='_blank'>《狂飙》</a> 🌟🌟🌟🌟🌟
   - 让黑暗照进现实。老默，我想吃鱼了。
 - <a href='https://book.douban.com/subject/35193035/' target='_blank'>《认知觉醒》</a> 🌟🌟🌟🌟🌟
