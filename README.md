@@ -102,7 +102,7 @@
   - <a href='https://juejin.cn/post/7002534474772643848' target='_blank'>Node—关于Event Loop的学习笔记</a>
   - <a href='https://juejin.cn/post/7013537317499453448' target='_blank'>Node—关于自动化构建与持续集成的学习笔记</a>
 - 更多
-  - <a href='https://juejin.cn/user/237150241041912/posts' target='_blank'>点击这里查看更多文章</a>
+  - <a href='https://juejin.cn/user/237150241041912/posts' target='_blank'>请点击这里查看</a>
 <!-- END_SECTION:blog -->
 
 
