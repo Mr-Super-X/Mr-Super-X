@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=2500&pause=500&center=true&vCenter=true&width=435&lines=Hi+你好吗+%F0%9F%91%8B;我是小陈同学+%F0%9F%98%B8" alt="Typing SVG" /></a>
 </h3>
 
-<h3 align="center">如果说世界上只有一种真正的英雄主义，那就是看清生活的真相后依然热爱生活。</h3>
+<h3 align="center">如果说世界上只有一种真正的英雄主义，那一定是看清生活的真相后依然热爱生活。</h3>
 
 <!-- 徽章 -->
 <p align="center">
