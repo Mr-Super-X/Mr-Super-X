@@ -91,10 +91,6 @@
   - <a href='https://juejin.cn/post/6995761286063587341' target='_blank'>Vue—关于响应式（二、异步更新队列原理分析）</a>
   - <a href='https://juejin.cn/post/7012166593840939016' target='_blank'>Vue—关于响应式（三、Diff Patch原理分析）</a>
   - <a href='https://juejin.cn/post/7024057177560055816' target='_blank'>Vue—关于响应式（四、深入学习Vue响应式源码）</a>
-  - <a href='https://juejin.cn/post/7213640074227892283' target='_blank'>Vue—不实用的小知识合集</a>
-  - <a href='https://juejin.cn/post/6994698605198049316' target='_blank'>Vue—关于插件（源码级别的插件分析+实践）</a>
-  - <a href='https://juejin.cn/post/6993229743466217509' target='_blank'>Vue—关于实例中为什么只能有一个根元素？</a>
-  - <a href='https://juejin.cn/post/6998396827766620190' target='_blank'>Vue—关于computed（在计算属性中return函数的问题）</a>
 - 设计模式
   - <a href='https://juejin.cn/post/7146508772196745229' target='_blank'>设计模式—关于概论部分的学习</a>
   - <a href='https://juejin.cn/post/7147527757533020173' target='_blank'>设计模式—关于如何更好的封装与创建对象</a>
@@ -105,6 +101,8 @@
 - Node.js
   - <a href='https://juejin.cn/post/7002534474772643848' target='_blank'>Node—关于Event Loop的学习笔记</a>
   - <a href='https://juejin.cn/post/7013537317499453448' target='_blank'>Node—关于自动化构建与持续集成的学习笔记</a>
+- 更多
+  - <a href='https://juejin.cn/user/237150241041912/posts' target='_blank'>点击这里查看更多文章</a>
 <!-- END_SECTION:blog -->
 
 
