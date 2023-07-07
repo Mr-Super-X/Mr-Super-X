@@ -110,12 +110,21 @@
 ### Movies and Books
 
 - <a href='https://movie.douban.com/subject/1292063/' target='_blank'>《美丽人生》</a> 🌟🌟🌟🌟🌟
+  - 现实残酷，他就用温柔回敬现实。战争凶猛，他就用父爱打赢这场战争。做一块蛋糕，他就融化了她的心窝；铺一张地毯，她就走进了他的生活。一句广播，一首音乐，让妻子重新看见希望。一个善意的谎言，一个属于父子之间的游戏，他用生命守住了孩子的童话。
+- <a href='http://movie.douban.com/subject/1292052/' target='_blank'>《海上钢琴师》</a> 🌟🌟🌟🌟🌟
+  - 后来我才知道生活的大多数时候其实是孤独的，是我们心里无处安放的孤独，不被这个世界所认可的孤独。
 - <a href='https://movie.douban.com/subject/1309163/' target='_blank'>《恋恋笔记本》</a> 🌟🌟🌟🌟🌟
+  - 恋爱脑慎入，看完会长脑子。
 - <a href='http://movie.douban.com/subject/1292052/' target='_blank'>《肖申克的救赎》</a> 🌟🌟🌟🌟🌟
+  - 要么忙着生活，要么忙着等死（Busy for living,  or busy for death）。步履匆匆的人们也许应该偶尔驻足，跳出来看看自己的模样。我们终会知道，习惯于服从规则的人们将付出巨大代价来习惯本来属于每一个个体的自由。
 - <a href='https://movie.douban.com/subject/1291841/' target='_blank'>《教父》</a> 🌟🌟🌟🌟🌟
+  - 教父会试图教会你人生处世、社会的真实、家庭以及如何耍酷。
 - <a href='http://movie.douban.com/subject/35465232/' target='_blank'>《狂飙》</a> 🌟🌟🌟🌟🌟
+  - 老默，我想吃鱼了
 - <a href='https://book.douban.com/subject/35193035/' target='_blank'>《认知觉醒》</a> 🌟🌟🌟🌟🌟
+  - 通过“大脑构造、潜意识、元认知”等思维规律，你将真正看清自己。
 - <a href='https://book.douban.com/subject/3533221/' target='_blank'>《非暴力沟通》</a> 🌟🌟🌟🌟🌟
+  - 尝试换一种沟通方式，也许你能避免生活中的很多冲突。
 
 <p align="center">
 	<!--彩虹分割线--> 
