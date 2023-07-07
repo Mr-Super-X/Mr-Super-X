@@ -120,7 +120,7 @@
 - <a href='https://movie.douban.com/subject/1291841/' target='_blank'>《教父》</a> 🌟🌟🌟🌟🌟
   - 教父会试图教会你人生处世、社会的真实、家庭以及如何耍酷。
 - <a href='http://movie.douban.com/subject/35465232/' target='_blank'>《狂飙》</a> 🌟🌟🌟🌟🌟
-  - 老默，我想吃鱼了
+  - 让黑暗照进现实。老默，我想吃鱼了。
 - <a href='https://book.douban.com/subject/35193035/' target='_blank'>《认知觉醒》</a> 🌟🌟🌟🌟🌟
   - 通过“大脑构造、潜意识、元认知”等思维规律，你将真正看清自己。
 - <a href='https://book.douban.com/subject/3533221/' target='_blank'>《非暴力沟通》</a> 🌟🌟🌟🌟🌟
