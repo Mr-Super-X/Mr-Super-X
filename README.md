@@ -317,11 +317,11 @@
 
 <p align="left">
 	<!-- 五年变化 图片 -->
-	<img src="https://cdn.jsdelivr.net/gh/Mr-Super-X/Mr-Super-X/assets/img/cxybh.jpg" alt="当程序员的五年变化" height="250" />
+	<img src="https://cdn.jsdelivr.net/gh/Mr-Super-X/Mr-Super-X/assets/img/cxybh.jpg" alt="当程序员的五年变化" height="320" />
 </p>
 <p align="left">
 	<!-- 压力哪有这么大 图片 -->
-	<img src="https://cdn.jsdelivr.net/gh/Mr-Super-X/Mr-Super-X/assets/img/wyl.jpg" alt="压力哪有这么大" height="250" />
+	<img src="https://cdn.jsdelivr.net/gh/Mr-Super-X/Mr-Super-X/assets/img/wyl.jpg" alt="压力哪有这么大" height="320" />
 </p>
 
 <!-- git-header图片 -->
