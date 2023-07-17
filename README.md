@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=2500&pause=500&center=true&vCenter=true&width=435&lines=Hi+你好吗+%F0%9F%91%8B;我是小陈同学+%F0%9F%98%B8" alt="Typing SVG" /></a>
 </h3>
 
-<h3 align="center">真正的英雄主义，是看清生活的真相后依然热爱生活。</h3>
+<h3 align="center">如果说世界上只有一种真正的英雄主义，那一定是看清生活的真相后依然热爱生活。</h3>
 
 <!-- 徽章 -->
 <p align="center">
@@ -38,7 +38,7 @@
 
 ### About Me
 
-- 🙋 大家好，我是小陈。
+- 🙋 你好呀，我是小陈。
 
 - 🤺 热爱编程、摄影、试图培养新的爱好。
 
@@ -78,7 +78,7 @@
 
 - [绿瘦健康产业集团股份有限公司](https://www.lvshou.net/) &emsp; 📌 2019-04-22 —— 2022-03-28
   
-  - 工作岗位：Web前端工程师（中级）
+  - 工作岗位：Web前端开发工程师（中级）
   - 工作内容：智能销售平台一站式研发
 
 
@@ -91,10 +91,6 @@
   - <a href='https://juejin.cn/post/6995761286063587341' target='_blank'>Vue—关于响应式（二、异步更新队列原理分析）</a>
   - <a href='https://juejin.cn/post/7012166593840939016' target='_blank'>Vue—关于响应式（三、Diff Patch原理分析）</a>
   - <a href='https://juejin.cn/post/7024057177560055816' target='_blank'>Vue—关于响应式（四、深入学习Vue响应式源码）</a>
-  - <a href='https://juejin.cn/post/7213640074227892283' target='_blank'>Vue—不实用的小知识合集</a>
-  - <a href='https://juejin.cn/post/6994698605198049316' target='_blank'>Vue—关于插件（源码级别的插件分析+实践）</a>
-  - <a href='https://juejin.cn/post/6993229743466217509' target='_blank'>Vue—关于实例中为什么只能有一个根元素？</a>
-  - <a href='https://juejin.cn/post/6998396827766620190' target='_blank'>Vue—关于computed（在计算属性中return函数的问题）</a>
 - 设计模式
   - <a href='https://juejin.cn/post/7146508772196745229' target='_blank'>设计模式—关于概论部分的学习</a>
   - <a href='https://juejin.cn/post/7147527757533020173' target='_blank'>设计模式—关于如何更好的封装与创建对象</a>
@@ -105,6 +101,8 @@
 - Node.js
   - <a href='https://juejin.cn/post/7002534474772643848' target='_blank'>Node—关于Event Loop的学习笔记</a>
   - <a href='https://juejin.cn/post/7013537317499453448' target='_blank'>Node—关于自动化构建与持续集成的学习笔记</a>
+- 更多
+  - <a href='https://juejin.cn/user/237150241041912/posts' target='_blank'>请点击这里查看</a>
 <!-- END_SECTION:blog -->
 
 
@@ -112,12 +110,21 @@
 ### Movies and Books
 
 - <a href='https://movie.douban.com/subject/1292063/' target='_blank'>《美丽人生》</a> 🌟🌟🌟🌟🌟
+  - 现实残酷，他就用温柔回敬现实。战争凶猛，他就用父爱打赢这场战争。做一块蛋糕，他就融化了她的心窝；铺一张地毯，她就走进了他的生活。一句广播，一首音乐，让妻子重新看见希望。一个善意的谎言，一个属于父子之间的游戏，他用生命守住了孩子的童话。
+- <a href='http://movie.douban.com/subject/1292052/' target='_blank'>《海上钢琴师》</a> 🌟🌟🌟🌟🌟
+  - 后来我才知道生活的大多数时候其实是孤独的，是我们心里无处安放的孤独，不被这个世界所认可的孤独。
 - <a href='https://movie.douban.com/subject/1309163/' target='_blank'>《恋恋笔记本》</a> 🌟🌟🌟🌟🌟
+  - 恋爱脑慎入，看完会长脑子。
 - <a href='http://movie.douban.com/subject/1292052/' target='_blank'>《肖申克的救赎》</a> 🌟🌟🌟🌟🌟
+  - 要么忙着生活，要么忙着等死（Busy for living,  or busy for death）。步履匆匆的人们也许应该偶尔驻足，跳出来看看自己的模样。我们终会知道，习惯于服从规则的人们将付出巨大代价来习惯本来属于每一个个体的自由。
 - <a href='https://movie.douban.com/subject/1291841/' target='_blank'>《教父》</a> 🌟🌟🌟🌟🌟
+  - 黑帮教父会教会你人生处世、社会的真实、家庭以及如何耍酷。
 - <a href='http://movie.douban.com/subject/35465232/' target='_blank'>《狂飙》</a> 🌟🌟🌟🌟🌟
+  - 让黑暗照进现实。老默，我想吃鱼了。
 - <a href='https://book.douban.com/subject/35193035/' target='_blank'>《认知觉醒》</a> 🌟🌟🌟🌟🌟
+  - 通过“大脑构造、潜意识、元认知”等思维规律，你将真正看清自己。
 - <a href='https://book.douban.com/subject/3533221/' target='_blank'>《非暴力沟通》</a> 🌟🌟🌟🌟🌟
+  - 尝试换一种沟通方式，也许你能避免生活中的很多冲突。
 
 <p align="center">
 	<!--彩虹分割线--> 
@@ -149,7 +156,7 @@
 
 <p align="left"> 
 	<!-- GitHub 奖杯🏆 -->
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-super-x&theme=algolia&row=1&column=8" alt="mr-super-x" /></a> 
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-super-x&theme=onedark&row=1&column=8" alt="mr-super-x" /></a> 
 </p>
 
 ### Sites
@@ -227,25 +234,20 @@
 [![](https://cdn.jsdelivr.net/gh/Mr-Super-X/vue3-admin@master/assets/github.svg)](https://running-page.l1cardo.vercel.app)
 
 
-### Day
-
-```text
-摸鱼   🕓 168h0m ██████████████████████████ 100.0%
-干活   🕓 0h0m   ░░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
-```
-
 ### Nice Repository
 
 <!-- Awesome repo 比较好的仓库推荐 -->
-<p align="left">
-	<a href="https://github.com/sun0225SUN/Awesome-Love-Code">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
-	<br></br>
-<a href="https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Wechat-ggGitHub&repo=Awesome-GitHub-Repo&theme=dark&bg_color=121212&hide_border=true" /></a>
-<br></br>
 <a href="https://github.com/Mr-Super-X/vue3-admin">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Super-X&repo=vue3-admin&theme=dark&bg_color=121212&hide_border=true" /></a>
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Super-X&repo=vue3-admin&theme=dark&bg_color=121212&hide_border=true" />
+</a>
+<br></br>
+<a href="https://github.com/sun0225SUN/Awesome-Love-Code">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" />
+</a>
+<br></br>
+<a href="https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=Wechat-ggGitHub&repo=Awesome-GitHub-Repo&theme=dark&bg_color=121212&hide_border=true" /></a>
+
 
 ### My Followers
 
@@ -305,13 +307,30 @@
 </table>
 <!--END_SECTION:top-followers-->
 
+
+### Days
+
+```text
+摸鱼   🕓 168h0m ██████████████████████████ 100.0%
+干活   🕓 0h0m   ░░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
+```
+
+<p align="left">
+	<!-- 五年变化 图片 -->
+	<img src="https://cdn.jsdelivr.net/gh/Mr-Super-X/Mr-Super-X/assets/img/cxybh.jpg" alt="当程序员的五年变化" height="320" />
+</p>
+<p align="left">
+	<!-- 压力哪有这么大 图片 -->
+	<img src="https://cdn.jsdelivr.net/gh/Mr-Super-X/Mr-Super-X/assets/img/wyl.jpg" alt="压力哪有这么大" height="320" />
+</p>
+
 <!-- git-header图片 -->
 <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 </p>
 
 <!-- 打字动效 -->
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Hack+Code&pause=100&width=450&lines=别看啦!啥都没有！&center=true&size=22" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.demolab.com?font=Hack+Code&pause=100&width=450&lines=别看啦!啥都没有了！&center=true&size=22" alt="Typing SVG" />
 	<!--
 		<img src="https://readme-typing-svg.demolab.com?font=Hack+Code&pause=100&width=450&lines=console.log(%22Hello%2C%20World%22);别看啦!啥都没有！&center=true&size=22" alt="Typing SVG" />
 	-->
