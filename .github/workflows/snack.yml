@@ -24,7 +24,7 @@ jobs:
             assets/github-contribution-grid-snake.svg
 
       - name: Push to GitHub
-        uses: crazy-max/ghaction-github-pages@v3.1
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           branch: master
           build_dir: assets
