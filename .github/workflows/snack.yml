@@ -17,17 +17,17 @@ jobs:
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: | 
-            assets/github-contribution-grid-snake-dark.svg?palette=github-dark
-            assets/github-contribution-grid-snake.gif
-            assets/github-contribution-grid-snake.svg
+          outputs: |
+            dist/assets/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/assets/github-contribution-grid-snake.gif
+            dist/assets/github-contribution-grid-snake.svg
 
       - name: Push to GitHub
         # uses: crazy-max/ghaction-github-pages@v3
         uses: EndBug/add-and-commit@v7.2.1
         with:
           branch: master
-          build_dir: assets
+          build_dir: dist
           keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
