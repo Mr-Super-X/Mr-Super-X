@@ -23,8 +23,7 @@ jobs:
             dist/assets/github-contribution-grid-snake.svg
 
       - name: Push to GitHub
-        # uses: crazy-max/ghaction-github-pages@v3
-        uses: EndBug/add-and-commit@v7.2.1
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           branch: master
           build_dir: dist
