@@ -131,20 +131,19 @@
     <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="100%" height="3">
 </p>
 
-<p align="center">
-	<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/pig.gif" />&emsp;
-	<!-- 动图 努力.jpg -->
-	<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
-	&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
-</p>
-
-
 <!-- 贪吃蛇代码贡献图 白天主题 -->
 <!--
 	![](https://raw.githubusercontent.com/Mr-Super-X/Mr-Super-X/master/assets/github-contribution-grid-snake.svg)
 -->
 <!-- 贪吃蛇代码贡献图 夜间主题 -->
 ![](https://raw.githubusercontent.com/Mr-Super-X/Mr-Super-X/master/assets/github-contribution-grid-snake-dark.svg)
+
+<p align="center">
+	<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/pig.gif" />&emsp;
+	<!-- 动图 努力.jpg -->
+	<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
+	&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
+</p>
 
 <!-- 最近一个月活动图 -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mr-Super-X&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -164,6 +163,11 @@
 	<img src="https://stats.justsong.cn/api/juejin?id=237150241041912&theme=dark" />
 	<!-- 知乎数据 -->
 	<img src="https://stats.justsong.cn/api/zhihu?username=mr-chen-38-81&theme=dark" />
+</p>
+
+<!--彩虹分割线--> 
+<p align="center">
+   <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="100%" height="3">
 </p>
 
 ### Sites
