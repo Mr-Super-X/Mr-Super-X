@@ -159,6 +159,13 @@
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-super-x&theme=onedark&row=1&column=8" alt="mr-super-x" /></a> 
 </p>
 
+<p align="left">
+	<!-- 掘金数据 -->
+	<img src="https://stats.justsong.cn/api/juejin?id=237150241041912&theme=dark" />
+	<!-- 知乎数据 -->
+	<img src="https://stats.justsong.cn/api/zhihu?username=mr-chen-38-81&theme=dark" />
+</p>
+
 ### Sites
 
 [![](https://img.shields.io/badge/Bilibili-哔哩哔哩-00A1D6?style=for-the-badge&logo=Bilibili&labelColor=ffffff)](https://www.bilibili.com/)
