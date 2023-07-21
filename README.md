@@ -360,7 +360,7 @@
 </p>
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/icon.png" /></div>
+<img src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/icon.png" />
 
 <!--彩虹分割线--> 
 <p align="center">
