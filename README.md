@@ -342,9 +342,9 @@
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 <p align="center">
-	<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
+	<img width="140" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-super-x&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3"  alt="mr-super-x"/>
-	&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
+	&emsp;<img width="140" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 </p>
 
 <p align="center">
