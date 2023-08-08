@@ -67,7 +67,7 @@
 	<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
 -->
 
-- [数字广东网络建设有限公司](https://www.digitalgd.com.cn/) （外包仔）&emsp; 📌 2022-06-20 —— Now
+- [数字广东网络建设有限公司](https://www.digitalgd.com.cn/) &emsp; 📌 2022-06-20 —— Now
   
   - 工作岗位：Web前端开发工程师
   - 工作内容：ToG项目
