@@ -61,27 +61,6 @@
 - ⚡ 间歇性摆烂爱好者，三天打鱼两天半晒网（这是能说的吗）。
 
 
-### Work Experience
-
-<!--
-	<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
--->
-
-- [数字广东网络建设有限公司](https://www.digitalgd.com.cn/) &emsp; 📌 2022-06-20 —— Now
-  
-  - 工作岗位：Web前端开发工程师
-  - 工作内容：ToG项目
-
-<!--
-	<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
--->
-
-- [绿瘦健康产业集团股份有限公司](https://www.lvshou.net/) &emsp; 📌 2019-04-22 —— 2022-03-28
-  
-  - 工作岗位：Web前端开发工程师
-  - 工作内容：智能销售平台一站式研发
-
-
 <!-- 近期博客 -->
 ### Recent Blog
 
